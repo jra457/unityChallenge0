@@ -1,1 +1,1 @@
-VRX Challenge 0
+Fall 2024 VRX Challenge 0
