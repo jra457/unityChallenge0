@@ -65,6 +65,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/balloonPopper/balloonGame.cs" />
+    <Compile Include="Assets/balloonPopper/scoreManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

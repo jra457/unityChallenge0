@@ -348,6 +348,7 @@
 -analyzer:"/home/jra457/Unity/Hub/Editor/2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/home/jra457/Unity/Hub/Editor/2022.3.44f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/balloonPopper/balloonGame.cs"
+"Assets/balloonPopper/scoreManager.cs"
 -langversion:9.0
 /deterministic
 /optimize+
