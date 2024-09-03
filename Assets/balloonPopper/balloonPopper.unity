@@ -285,7 +285,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99fe46b0741e87cd6b07ab918f1a1f14, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreToGive: 1
+  scoreToGive: 2
   clicksToPop: 5
   scaleIncreasePerClick: 0.1
   scoreManager: {fileID: 71373094}
@@ -715,7 +715,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99fe46b0741e87cd6b07ab918f1a1f14, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreToGive: 1
+  scoreToGive: 3
   clicksToPop: 5
   scaleIncreasePerClick: 0.1
   scoreManager: {fileID: 71373094}
